@@ -1,2 +1,3 @@
 Hello and welcome to my project!
 Check out README.txt for info on how to use this project.
+Loads more info on this project.
